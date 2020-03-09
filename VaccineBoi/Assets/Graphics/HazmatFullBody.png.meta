@@ -1,0 +1,991 @@
+fileFormatVersion: 2
+guid: 2488c2281ce75d847af49fe90231a7ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2683518412098590978
+    second: HazmatFullBody_0
+  - first:
+      213: 5469756001005882419
+    second: HazmatFullBody_1
+  - first:
+      213: -8392018951827586352
+    second: HazmatFullBody_2
+  - first:
+      213: 9072876824359690909
+    second: HazmatFullBody_3
+  - first:
+      213: 4958764416273656397
+    second: HazmatFullBody_4
+  - first:
+      213: 2442860061672298729
+    second: HazmatFullBody_5
+  - first:
+      213: 8921528797974509720
+    second: HazmatFullBody_6
+  - first:
+      213: 5010579523791992711
+    second: HazmatFullBody_7
+  - first:
+      213: -8486788867376362114
+    second: HazmatFullBody_8
+  - first:
+      213: -4458530715418255940
+    second: HazmatFullBody_9
+  - first:
+      213: 7865485561790214188
+    second: HazmatFullBody_10
+  - first:
+      213: 7496122797991905186
+    second: HazmatFullBody_11
+  - first:
+      213: 1452239364830123614
+    second: HazmatFullBody_12
+  - first:
+      213: -8561822470875659465
+    second: HazmatFullBody_13
+  - first:
+      213: 8043296264302387057
+    second: HazmatFullBody_14
+  - first:
+      213: 907926090602152342
+    second: HazmatFullBody_15
+  - first:
+      213: 8270214878623124464
+    second: HazmatFullBody_16
+  - first:
+      213: 6047133529965657278
+    second: HazmatFullBody_17
+  - first:
+      213: 3622849553040773855
+    second: HazmatFullBody_18
+  - first:
+      213: 5342893262728933678
+    second: HazmatFullBody_19
+  - first:
+      213: -6679029223565099853
+    second: HazmatFullBody_20
+  - first:
+      213: -8306403221897699549
+    second: HazmatFullBody_21
+  - first:
+      213: -1184243023185690425
+    second: HazmatFullBody_22
+  - first:
+      213: 5141751263544753377
+    second: HazmatFullBody_23
+  - first:
+      213: -203774013819253046
+    second: HazmatFullBody_24
+  - first:
+      213: 4536454624272266561
+    second: HazmatFullBody_25
+  - first:
+      213: 4903786250484508078
+    second: HazmatFullBody_26
+  - first:
+      213: 884199186700440498
+    second: HazmatFullBody_27
+  - first:
+      213: 4894498016165113774
+    second: HazmatFullBody_28
+  - first:
+      213: 7216229885612062426
+    second: HazmatFullBody_29
+  - first:
+      213: 6701529560120637630
+    second: HazmatFullBody_30
+  - first:
+      213: -5611068865509527431
+    second: HazmatFullBody_31
+  - first:
+      213: 7967813596089096908
+    second: HazmatFullBody_32
+  - first:
+      213: 7447498672340173191
+    second: HazmatFullBody_33
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HazmatFullBody_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 666
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ab3b938ce6bd04b911fcfb616cf8ab
+      internalID: 2683518412098590978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatFullBody_1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 669
+        width: 46
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ec03562c74a14469fe75ae2139810b
+      internalID: 5469756001005882419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatFullBody_2
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 663
+        width: 28
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26060e1ab31c48a4ab134ae0bdb6b424
+      internalID: -8392018951827586352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatFullBody_3
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 663
+        width: 28
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2128fd31c476c4299e7f670579ac71
+      internalID: 9072876824359690909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatFullBody_4
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 669
+        width: 28
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf25fa4a8785c3542935e4f56819f9ba
+      internalID: 4958764416273656397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatFullBody_5
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 666
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4c616ee4fc29f4ca92ca2dd5f386f8
+      internalID: 2442860061672298729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatFullBody_6
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 541
+        width: 46
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52f6f490df668440b9461937fe6dce4
+      internalID: 8921528797974509720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatFullBody_7
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 535
+        width: 28
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca39f25ece5b5d649aa95c92340e3319
+      internalID: 5010579523791992711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatFullBody_8
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 535
+        width: 28
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928976d64eeefbf4b8b4182c303118f2
+      internalID: -8486788867376362114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatFullBody_9
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 541
+        width: 28
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c5dd590908ce341a681e1166e537a3
+      internalID: -4458530715418255940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatFullBody_10
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 535
+        width: 28
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc721ab82a29202478f449ad97f7a2f7
+      internalID: 7865485561790214188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatFullBody_11
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 538
+        width: 31
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe0b50c722e4094da58ddc9812d8e48
+      internalID: 7496122797991905186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatFullBody_12
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 416
+        width: 31
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef65c97c40b0d314c90699de662f3557
+      internalID: 1452239364830123614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatFullBody_13
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 407
+        width: 28
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81215041525173a439d4f7d53e823934
+      internalID: -8561822470875659465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatFullBody_14
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 410
+        width: 31
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723ff420d670dcb46a7d0e272c0ed129
+      internalID: 8043296264302387057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatFullBody_15
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 416
+        width: 31
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b317ac1112085ce4ebfb9c4e83bc199f
+      internalID: 907926090602152342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatFullBody_16
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 407
+        width: 28
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1be9cdd9b6e14e4d8b67c329eabbe0c
+      internalID: 8270214878623124464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatFullBody_17
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 410
+        width: 31
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cad09df4f9b734784233a86d82fbcb
+      internalID: 6047133529965657278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatFullBody_18
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 288
+        width: 31
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397cb4216e3a28a4c8a813604e467f6d
+      internalID: 3622849553040773855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatFullBody_19
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 279
+        width: 28
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5631188ab1db94847954a8c85399a183
+      internalID: 5342893262728933678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatFullBody_20
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 282
+        width: 31
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e81ccb51070f5479999a19f0763c8f
+      internalID: -6679029223565099853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatFullBody_21
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 288
+        width: 31
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b721a27d2382c454e9c6fc8f7886b940
+      internalID: -8306403221897699549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatFullBody_22
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 282
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d53320db882104da1e29571cc8ca84
+      internalID: -1184243023185690425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatFullBody_23
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 288
+        width: 31
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea573d4ae2aed224facd6f0414a195f9
+      internalID: 5141751263544753377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatFullBody_24
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 151
+        width: 28
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78955d41c359e6040a75005f925936fc
+      internalID: -203774013819253046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatFullBody_25
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 154
+        width: 31
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176fb959c48e12143a82a38ace094271
+      internalID: 4536454624272266561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatFullBody_26
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 160
+        width: 31
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c73370365b7d924ba9064e96206b958
+      internalID: 4903786250484508078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatFullBody_27
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 151
+        width: 28
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772f6ccbbbba8ca45b3e2e2714cc1a49
+      internalID: 884199186700440498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatFullBody_28
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 154
+        width: 31
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3066d1240ebf9458827fa7d8c46a15
+      internalID: 4894498016165113774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatFullBody_29
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 160
+        width: 31
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fdda8e2f1db1c4085f519c858bac4c
+      internalID: 7216229885612062426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatFullBody_30
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 23
+        width: 28
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d199b32c2705c489d35b696a11034c
+      internalID: 6701529560120637630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatFullBody_31
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 26
+        width: 31
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc1bc5489df8b84fa8a855ec89d4b64
+      internalID: -5611068865509527431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatFullBody_32
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 32
+        width: 31
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7cf4d63d0643f4ea842ced211a2906
+      internalID: 7967813596089096908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatFullBody_33
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 23
+        width: 28
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec5744d830957348a0b65f69392c3eb
+      internalID: 7447498672340173191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
