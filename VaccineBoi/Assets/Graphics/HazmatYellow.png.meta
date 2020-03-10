@@ -1,0 +1,7783 @@
+fileFormatVersion: 2
+guid: 9e51341b25cc7294f9faa4270a4cfa2a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4006815419905895437
+    second: HazmatYellow_0
+  - first:
+      213: 2300031300392158883
+    second: HazmatYellow_1
+  - first:
+      213: -3265999673106196524
+    second: HazmatYellow_2
+  - first:
+      213: 3407547016815390360
+    second: HazmatYellow_3
+  - first:
+      213: -3743083619211505182
+    second: HazmatYellow_4
+  - first:
+      213: 4457902668154228578
+    second: HazmatYellow_5
+  - first:
+      213: -3793743754744635697
+    second: HazmatYellow_6
+  - first:
+      213: 2637721966268014744
+    second: HazmatYellow_7
+  - first:
+      213: -1506264919302156626
+    second: HazmatYellow_8
+  - first:
+      213: 3378676728634446967
+    second: HazmatYellow_9
+  - first:
+      213: 7838332623192766925
+    second: HazmatYellow_10
+  - first:
+      213: 6787108362728250599
+    second: HazmatYellow_11
+  - first:
+      213: -3835750476202084153
+    second: HazmatYellow_12
+  - first:
+      213: 6643611030526561128
+    second: HazmatYellow_13
+  - first:
+      213: -1763307249770447601
+    second: HazmatYellow_14
+  - first:
+      213: 2872794822592200919
+    second: HazmatYellow_15
+  - first:
+      213: -1016737470214483617
+    second: HazmatYellow_16
+  - first:
+      213: 3021663132385176202
+    second: HazmatYellow_17
+  - first:
+      213: 8633017666245225362
+    second: HazmatYellow_18
+  - first:
+      213: -9082670866185787851
+    second: HazmatYellow_19
+  - first:
+      213: -5923023501701344838
+    second: HazmatYellow_20
+  - first:
+      213: -1191825223194958056
+    second: HazmatYellow_21
+  - first:
+      213: 6050640310280883683
+    second: HazmatYellow_22
+  - first:
+      213: -1662763327100829785
+    second: HazmatYellow_23
+  - first:
+      213: -1581930285213463362
+    second: HazmatYellow_24
+  - first:
+      213: -6406227008026989078
+    second: HazmatYellow_25
+  - first:
+      213: -2173925310269019481
+    second: HazmatYellow_26
+  - first:
+      213: 7619670575628015892
+    second: HazmatYellow_27
+  - first:
+      213: -5895138491784979342
+    second: HazmatYellow_28
+  - first:
+      213: -2407703576493201499
+    second: HazmatYellow_29
+  - first:
+      213: 179528704634479777
+    second: HazmatYellow_30
+  - first:
+      213: 6279054389417804382
+    second: HazmatYellow_31
+  - first:
+      213: -1593742995867014097
+    second: HazmatYellow_32
+  - first:
+      213: 3616951560117754480
+    second: HazmatYellow_33
+  - first:
+      213: 2859048192976504055
+    second: HazmatYellow_34
+  - first:
+      213: 6120522453756513179
+    second: HazmatYellow_35
+  - first:
+      213: 6233043997280603137
+    second: HazmatYellow_36
+  - first:
+      213: 6119731085792050840
+    second: HazmatYellow_37
+  - first:
+      213: -6836713382292585751
+    second: HazmatYellow_38
+  - first:
+      213: -3500544511338803179
+    second: HazmatYellow_39
+  - first:
+      213: 3177461853340881179
+    second: HazmatYellow_40
+  - first:
+      213: 4552993104176503904
+    second: HazmatYellow_41
+  - first:
+      213: -1656331581541772380
+    second: HazmatYellow_42
+  - first:
+      213: -8639776998644211497
+    second: HazmatYellow_43
+  - first:
+      213: 8250462176715656356
+    second: HazmatYellow_44
+  - first:
+      213: -4774492982930665705
+    second: HazmatYellow_45
+  - first:
+      213: 2473337584206718071
+    second: HazmatYellow_46
+  - first:
+      213: 6354919061470809346
+    second: HazmatYellow_47
+  - first:
+      213: -4781984375970221764
+    second: HazmatYellow_48
+  - first:
+      213: 3006448061833506747
+    second: HazmatYellow_49
+  - first:
+      213: -7777443472670826758
+    second: HazmatYellow_50
+  - first:
+      213: 6320748635325067415
+    second: HazmatYellow_51
+  - first:
+      213: -3547832794494149925
+    second: HazmatYellow_52
+  - first:
+      213: -5122379633278674622
+    second: HazmatYellow_53
+  - first:
+      213: -1163538061944665378
+    second: HazmatYellow_54
+  - first:
+      213: 2217652351584467438
+    second: HazmatYellow_55
+  - first:
+      213: 1940221846978152151
+    second: HazmatYellow_56
+  - first:
+      213: 1930190849089095915
+    second: HazmatYellow_57
+  - first:
+      213: -354846884827862054
+    second: HazmatYellow_58
+  - first:
+      213: 2463204991896456422
+    second: HazmatYellow_59
+  - first:
+      213: -3611834601939494534
+    second: HazmatYellow_60
+  - first:
+      213: 8410933936437165774
+    second: HazmatYellow_61
+  - first:
+      213: -4049428961147159179
+    second: HazmatYellow_62
+  - first:
+      213: -4223263913417368334
+    second: HazmatYellow_63
+  - first:
+      213: 8972589543228295939
+    second: HazmatYellow_64
+  - first:
+      213: -8388531346125905150
+    second: HazmatYellow_65
+  - first:
+      213: 8152720291942821019
+    second: HazmatYellow_66
+  - first:
+      213: -4778994414225485462
+    second: HazmatYellow_67
+  - first:
+      213: -7422491816663082547
+    second: HazmatYellow_68
+  - first:
+      213: -6580309866289304836
+    second: HazmatYellow_69
+  - first:
+      213: -4818511419297946547
+    second: HazmatYellow_70
+  - first:
+      213: -2938822210584767482
+    second: HazmatYellow_71
+  - first:
+      213: 8112461516401770404
+    second: HazmatYellow_72
+  - first:
+      213: -3675264884164713292
+    second: HazmatYellow_73
+  - first:
+      213: 7365209528937002399
+    second: HazmatYellow_74
+  - first:
+      213: 5112046852590415031
+    second: HazmatYellow_75
+  - first:
+      213: 3523976913845078706
+    second: HazmatYellow_76
+  - first:
+      213: -2169377931524539081
+    second: HazmatYellow_77
+  - first:
+      213: 5056877948930771683
+    second: HazmatYellow_78
+  - first:
+      213: 8562818862157660253
+    second: HazmatYellow_79
+  - first:
+      213: 1231688434675123192
+    second: HazmatYellow_80
+  - first:
+      213: 7204610038472120917
+    second: HazmatYellow_81
+  - first:
+      213: -1671924201812530529
+    second: HazmatYellow_82
+  - first:
+      213: -5494451254631825109
+    second: HazmatYellow_83
+  - first:
+      213: -4007239641765745456
+    second: HazmatYellow_84
+  - first:
+      213: -6516218001946166030
+    second: HazmatYellow_85
+  - first:
+      213: 8481676940156281587
+    second: HazmatYellow_86
+  - first:
+      213: -4735846033838192725
+    second: HazmatYellow_87
+  - first:
+      213: -1033282692694883093
+    second: HazmatYellow_88
+  - first:
+      213: -368543192166970667
+    second: HazmatYellow_89
+  - first:
+      213: -4470807035861736958
+    second: HazmatYellow_90
+  - first:
+      213: 2602575252019368178
+    second: HazmatYellow_91
+  - first:
+      213: 389424524130914052
+    second: HazmatYellow_92
+  - first:
+      213: -7341731767922512430
+    second: HazmatYellow_93
+  - first:
+      213: 2650071304100979950
+    second: HazmatYellow_94
+  - first:
+      213: -4935112367923104756
+    second: HazmatYellow_95
+  - first:
+      213: 2776749150198245938
+    second: HazmatYellow_96
+  - first:
+      213: -2877728350150323275
+    second: HazmatYellow_97
+  - first:
+      213: -5891122998894189546
+    second: HazmatYellow_98
+  - first:
+      213: 1747450330332581372
+    second: HazmatYellow_99
+  - first:
+      213: 2733886531871058660
+    second: HazmatYellow_100
+  - first:
+      213: 6742767502532484239
+    second: HazmatYellow_101
+  - first:
+      213: -367807719934035470
+    second: HazmatYellow_102
+  - first:
+      213: 2651461994977694572
+    second: HazmatYellow_103
+  - first:
+      213: 452337541430388161
+    second: HazmatYellow_104
+  - first:
+      213: -5325193963819179679
+    second: HazmatYellow_105
+  - first:
+      213: 8020317572522027509
+    second: HazmatYellow_106
+  - first:
+      213: 6382539394956917944
+    second: HazmatYellow_107
+  - first:
+      213: 4409417827083727556
+    second: HazmatYellow_108
+  - first:
+      213: 8062203489434692629
+    second: HazmatYellow_109
+  - first:
+      213: 536320321926328303
+    second: HazmatYellow_110
+  - first:
+      213: 4975048966528655362
+    second: HazmatYellow_111
+  - first:
+      213: 1553942253312002414
+    second: HazmatYellow_112
+  - first:
+      213: 4568676279852897135
+    second: HazmatYellow_113
+  - first:
+      213: -365921766718124303
+    second: HazmatYellow_114
+  - first:
+      213: 4022921237232031861
+    second: HazmatYellow_115
+  - first:
+      213: -4535263662904573661
+    second: HazmatYellow_116
+  - first:
+      213: 2483438599948797287
+    second: HazmatYellow_117
+  - first:
+      213: -7779295719109361268
+    second: HazmatYellow_118
+  - first:
+      213: 1844954640516631603
+    second: HazmatYellow_119
+  - first:
+      213: 3074783258662556806
+    second: HazmatYellow_120
+  - first:
+      213: 3088142822672189053
+    second: HazmatYellow_121
+  - first:
+      213: 8892408985325332361
+    second: HazmatYellow_122
+  - first:
+      213: 7495738648869524446
+    second: HazmatYellow_123
+  - first:
+      213: -19086200912863204
+    second: HazmatYellow_124
+  - first:
+      213: -9161720479482493284
+    second: HazmatYellow_125
+  - first:
+      213: 2821038474204573777
+    second: HazmatYellow_126
+  - first:
+      213: -1876767047022184602
+    second: HazmatYellow_127
+  - first:
+      213: -51612920441544897
+    second: HazmatYellow_128
+  - first:
+      213: -3186288172590180313
+    second: HazmatYellow_129
+  - first:
+      213: -9016102599679385327
+    second: HazmatYellow_130
+  - first:
+      213: -3737268537513422517
+    second: HazmatYellow_131
+  - first:
+      213: -5457325514347233772
+    second: HazmatYellow_132
+  - first:
+      213: 6488460270144714271
+    second: HazmatYellow_133
+  - first:
+      213: -5298737845211885420
+    second: HazmatYellow_134
+  - first:
+      213: -1779134921238157232
+    second: HazmatYellow_135
+  - first:
+      213: 2625401544468018821
+    second: HazmatYellow_136
+  - first:
+      213: 2435712779466521937
+    second: HazmatYellow_137
+  - first:
+      213: 758868716193822586
+    second: HazmatYellow_138
+  - first:
+      213: 6279307670280118985
+    second: HazmatYellow_139
+  - first:
+      213: 5884589224831946963
+    second: HazmatYellow_140
+  - first:
+      213: -505187793904336801
+    second: HazmatYellow_141
+  - first:
+      213: 8550343779288553592
+    second: HazmatYellow_142
+  - first:
+      213: -4854785804086713644
+    second: HazmatYellow_143
+  - first:
+      213: -8472744600828301322
+    second: HazmatYellow_144
+  - first:
+      213: -5511000390552138024
+    second: HazmatYellow_145
+  - first:
+      213: -7580083160203465571
+    second: HazmatYellow_146
+  - first:
+      213: -5789000182812852871
+    second: HazmatYellow_147
+  - first:
+      213: -3467150805057944395
+    second: HazmatYellow_148
+  - first:
+      213: -3501977098279354595
+    second: HazmatYellow_149
+  - first:
+      213: -1383147850161922377
+    second: HazmatYellow_150
+  - first:
+      213: -4572982390729244861
+    second: HazmatYellow_151
+  - first:
+      213: -9153481869618795027
+    second: HazmatYellow_152
+  - first:
+      213: 7225690058300087291
+    second: HazmatYellow_153
+  - first:
+      213: -2516242462316105818
+    second: HazmatYellow_154
+  - first:
+      213: -8505551736752155566
+    second: HazmatYellow_155
+  - first:
+      213: 8531436712046974262
+    second: HazmatYellow_156
+  - first:
+      213: 3120499186330396632
+    second: HazmatYellow_157
+  - first:
+      213: 1672461461053808048
+    second: HazmatYellow_158
+  - first:
+      213: 391045217547016808
+    second: HazmatYellow_159
+  - first:
+      213: -7112771756061990821
+    second: HazmatYellow_160
+  - first:
+      213: -8467802798622210700
+    second: HazmatYellow_161
+  - first:
+      213: -1638357491440919943
+    second: HazmatYellow_162
+  - first:
+      213: -7235683099142527889
+    second: HazmatYellow_163
+  - first:
+      213: -7255819352622396967
+    second: HazmatYellow_164
+  - first:
+      213: 49009687521831223
+    second: HazmatYellow_165
+  - first:
+      213: 7813416668226682993
+    second: HazmatYellow_166
+  - first:
+      213: 2669003814291192631
+    second: HazmatYellow_167
+  - first:
+      213: 2928314318241261862
+    second: HazmatYellow_168
+  - first:
+      213: 3109596262379304679
+    second: HazmatYellow_169
+  - first:
+      213: 3034773197200774897
+    second: HazmatYellow_170
+  - first:
+      213: 7635308490016252430
+    second: HazmatYellow_171
+  - first:
+      213: -8660592178841659344
+    second: HazmatYellow_172
+  - first:
+      213: -8454209617441424588
+    second: HazmatYellow_173
+  - first:
+      213: 460082111497424382
+    second: HazmatYellow_174
+  - first:
+      213: 6051704892420937736
+    second: HazmatYellow_175
+  - first:
+      213: 5178736817519054885
+    second: HazmatYellow_176
+  - first:
+      213: 5478726686710518784
+    second: HazmatYellow_177
+  - first:
+      213: 1773901229049463465
+    second: HazmatYellow_178
+  - first:
+      213: 2347293666412321515
+    second: HazmatYellow_179
+  - first:
+      213: -382038178459049608
+    second: HazmatYellow_180
+  - first:
+      213: 6373793579979793969
+    second: HazmatYellow_181
+  - first:
+      213: -8349198523046803761
+    second: HazmatYellow_182
+  - first:
+      213: -1832219975784972501
+    second: HazmatYellow_183
+  - first:
+      213: -6786404719175952414
+    second: HazmatYellow_184
+  - first:
+      213: -4497812950621337356
+    second: HazmatYellow_185
+  - first:
+      213: 5840733847054515286
+    second: HazmatYellow_186
+  - first:
+      213: 1414439393902396588
+    second: HazmatYellow_187
+  - first:
+      213: 7375994862869270688
+    second: HazmatYellow_188
+  - first:
+      213: -1160980259318590847
+    second: HazmatYellow_189
+  - first:
+      213: 6571045077250814684
+    second: HazmatYellow_190
+  - first:
+      213: 7862723461335379932
+    second: HazmatYellow_191
+  - first:
+      213: 4345133419452632546
+    second: HazmatYellow_192
+  - first:
+      213: 857999035810038005
+    second: HazmatYellow_193
+  - first:
+      213: 8876776809891028043
+    second: HazmatYellow_194
+  - first:
+      213: 1658174731850751102
+    second: HazmatYellow_195
+  - first:
+      213: -1528300184148559660
+    second: HazmatYellow_196
+  - first:
+      213: 200668216669307529
+    second: HazmatYellow_197
+  - first:
+      213: 9010183297384405304
+    second: HazmatYellow_198
+  - first:
+      213: -7784588332388169989
+    second: HazmatYellow_199
+  - first:
+      213: -806941273547732865
+    second: HazmatYellow_200
+  - first:
+      213: -5527710264824522376
+    second: HazmatYellow_201
+  - first:
+      213: -747681676874005010
+    second: HazmatYellow_202
+  - first:
+      213: 2056599332549412637
+    second: HazmatYellow_203
+  - first:
+      213: -2148028398902083363
+    second: HazmatYellow_204
+  - first:
+      213: -7326818267588374701
+    second: HazmatYellow_205
+  - first:
+      213: -9217197437541984166
+    second: HazmatYellow_206
+  - first:
+      213: 3728458717186142546
+    second: HazmatYellow_207
+  - first:
+      213: 120944276732911842
+    second: HazmatYellow_208
+  - first:
+      213: -4325938983513256773
+    second: HazmatYellow_209
+  - first:
+      213: -7134899921178832013
+    second: HazmatYellow_210
+  - first:
+      213: -3779746153238226400
+    second: HazmatYellow_211
+  - first:
+      213: -980549266907908834
+    second: HazmatYellow_212
+  - first:
+      213: 4709576091261108272
+    second: HazmatYellow_213
+  - first:
+      213: -9058659057514945028
+    second: HazmatYellow_214
+  - first:
+      213: 3095512447794801823
+    second: HazmatYellow_215
+  - first:
+      213: -6573643860392073521
+    second: HazmatYellow_216
+  - first:
+      213: -800856310404809200
+    second: HazmatYellow_217
+  - first:
+      213: 3362676332823949793
+    second: HazmatYellow_218
+  - first:
+      213: 291609991047182654
+    second: HazmatYellow_219
+  - first:
+      213: -1240369843987618795
+    second: HazmatYellow_220
+  - first:
+      213: 7252682503232072482
+    second: HazmatYellow_221
+  - first:
+      213: -752046699285248779
+    second: HazmatYellow_222
+  - first:
+      213: -6029640299031051368
+    second: HazmatYellow_223
+  - first:
+      213: 2285735530588555539
+    second: HazmatYellow_224
+  - first:
+      213: 8789757862740558344
+    second: HazmatYellow_225
+  - first:
+      213: 8688279557489386218
+    second: HazmatYellow_226
+  - first:
+      213: -2412966006665259130
+    second: HazmatYellow_227
+  - first:
+      213: 9104010005015920655
+    second: HazmatYellow_228
+  - first:
+      213: 7201017107529716298
+    second: HazmatYellow_229
+  - first:
+      213: -8763580475493983762
+    second: HazmatYellow_230
+  - first:
+      213: -1045205169959400893
+    second: HazmatYellow_231
+  - first:
+      213: -4206855625236771337
+    second: HazmatYellow_232
+  - first:
+      213: -852651142214649229
+    second: HazmatYellow_233
+  - first:
+      213: 849073492544865418
+    second: HazmatYellow_234
+  - first:
+      213: -5574500806114356069
+    second: HazmatYellow_235
+  - first:
+      213: 1387323559764930413
+    second: HazmatYellow_236
+  - first:
+      213: -6191387182796282138
+    second: HazmatYellow_237
+  - first:
+      213: 6610589076189400959
+    second: HazmatYellow_238
+  - first:
+      213: -3982803642041143805
+    second: HazmatYellow_239
+  - first:
+      213: 9179780849366350595
+    second: HazmatYellow_240
+  - first:
+      213: -8976591359126395539
+    second: HazmatYellow_241
+  - first:
+      213: -6238172586328670359
+    second: HazmatYellow_242
+  - first:
+      213: -2243970633411674637
+    second: HazmatYellow_243
+  - first:
+      213: 4879764772994767708
+    second: HazmatYellow_244
+  - first:
+      213: 4085897225448614868
+    second: HazmatYellow_245
+  - first:
+      213: -4595175032217487619
+    second: HazmatYellow_246
+  - first:
+      213: 1097147297440403480
+    second: HazmatYellow_247
+  - first:
+      213: 631034629871738278
+    second: HazmatYellow_248
+  - first:
+      213: -3204146203282947900
+    second: HazmatYellow_249
+  - first:
+      213: -5110979502323368380
+    second: HazmatYellow_250
+  - first:
+      213: -6306649574230943374
+    second: HazmatYellow_251
+  - first:
+      213: 471245795647591411
+    second: HazmatYellow_252
+  - first:
+      213: 4690302085598113559
+    second: HazmatYellow_253
+  - first:
+      213: -6988260137856581974
+    second: HazmatYellow_254
+  - first:
+      213: 6638754497656264126
+    second: HazmatYellow_255
+  - first:
+      213: -1479776390143228719
+    second: HazmatYellow_256
+  - first:
+      213: -118998019986630684
+    second: HazmatYellow_257
+  - first:
+      213: -1333377897223008032
+    second: HazmatYellow_258
+  - first:
+      213: 8117723348350223380
+    second: HazmatYellow_259
+  - first:
+      213: 5789192223055530705
+    second: HazmatYellow_260
+  - first:
+      213: -3300928165914627452
+    second: HazmatYellow_261
+  - first:
+      213: -2219880939132309179
+    second: HazmatYellow_262
+  - first:
+      213: -9062245896520008537
+    second: HazmatYellow_263
+  - first:
+      213: 2854774853233049007
+    second: HazmatYellow_264
+  - first:
+      213: -5912564595255667150
+    second: HazmatYellow_265
+  - first:
+      213: 7709269324907706770
+    second: HazmatYellow_266
+  - first:
+      213: -1448486823225192515
+    second: HazmatYellow_267
+  - first:
+      213: -4079803379397940294
+    second: HazmatYellow_268
+  - first:
+      213: 4171875550136187209
+    second: HazmatYellow_269
+  - first:
+      213: 2668711689350202110
+    second: HazmatYellow_270
+  - first:
+      213: -1833982218843718466
+    second: HazmatYellow_271
+  - first:
+      213: 5066386837420365815
+    second: HazmatYellow_272
+  - first:
+      213: -7247238572367988423
+    second: HazmatYellow_273
+  - first:
+      213: 4319360337651222527
+    second: HazmatYellow_274
+  - first:
+      213: -4398711612597595372
+    second: HazmatYellow_275
+  - first:
+      213: -8746177514993531780
+    second: HazmatYellow_276
+  - first:
+      213: 8660664160879195209
+    second: HazmatYellow_277
+  - first:
+      213: -4677889762835602122
+    second: HazmatYellow_278
+  - first:
+      213: 769859436734441956
+    second: HazmatYellow_279
+  - first:
+      213: -2149825920373613704
+    second: HazmatYellow_280
+  - first:
+      213: 3845970638131348463
+    second: HazmatYellow_281
+  - first:
+      213: 8479793735529150831
+    second: HazmatYellow_282
+  - first:
+      213: 2395630037038112603
+    second: HazmatYellow_283
+  - first:
+      213: 1501502879350884816
+    second: HazmatYellow_284
+  - first:
+      213: 5448248584911664172
+    second: HazmatYellow_285
+  - first:
+      213: 2039765386317747973
+    second: HazmatYellow_286
+  - first:
+      213: -6028708048047520371
+    second: HazmatYellow_287
+  - first:
+      213: 6792335217280135260
+    second: HazmatYellow_288
+  - first:
+      213: 816810828656096198
+    second: HazmatYellow_289
+  - first:
+      213: -8266709102505632891
+    second: HazmatYellow_290
+  - first:
+      213: -8089010090396684328
+    second: HazmatYellow_291
+  - first:
+      213: 3123603931990493779
+    second: HazmatYellow_292
+  - first:
+      213: -4612327658805148384
+    second: HazmatYellow_293
+  - first:
+      213: -7118986730196443967
+    second: HazmatYellow_294
+  - first:
+      213: 2318599798000611776
+    second: HazmatYellow_295
+  - first:
+      213: -9007130228521296051
+    second: HazmatYellow_296
+  - first:
+      213: 3836409724149978023
+    second: HazmatYellow_297
+  - first:
+      213: 1638036303678879524
+    second: HazmatYellow_298
+  - first:
+      213: -5330449534523584262
+    second: HazmatYellow_299
+  - first:
+      213: -3417597513862960424
+    second: HazmatYellow_300
+  - first:
+      213: 6409824722032807568
+    second: HazmatYellow_301
+  - first:
+      213: -2939395342770668912
+    second: HazmatYellow_302
+  - first:
+      213: 5619291632582253001
+    second: HazmatYellow_303
+  - first:
+      213: 1906993261830669118
+    second: HazmatYellow_304
+  - first:
+      213: -4632386680944537773
+    second: HazmatYellow_305
+  - first:
+      213: 3129860834893698093
+    second: HazmatYellow_306
+  - first:
+      213: 2669592482682288875
+    second: HazmatYellow_307
+  - first:
+      213: 3974259817221092655
+    second: HazmatYellow_308
+  - first:
+      213: 8530012073686522339
+    second: HazmatYellow_309
+  - first:
+      213: 906207898763800893
+    second: HazmatYellow_310
+  - first:
+      213: 4253574692347168914
+    second: HazmatYellow_311
+  - first:
+      213: 4547384470285859497
+    second: HazmatYellow_312
+  - first:
+      213: -1299887505064679235
+    second: HazmatYellow_313
+  - first:
+      213: 6344007289071823537
+    second: HazmatYellow_314
+  - first:
+      213: -6227671458031456775
+    second: HazmatYellow_315
+  - first:
+      213: 5392330035913326452
+    second: HazmatYellow_316
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HazmatYellow_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 725.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e00367608af5a7468d39c6f7324f35a
+      internalID: 4006815419905895437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 725.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92559d4a9327364a9e580f428348d5c
+      internalID: 2300031300392158883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 725.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7659a5a053e0d45804fab5278a6a10
+      internalID: -3265999673106196524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_3
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 725.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ecbf569ca215c34884e6fd4c8466080
+      internalID: 3407547016815390360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_4
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 725.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461d9f23012677841b72da448548fbb7
+      internalID: -3743083619211505182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_5
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 725.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d29d8546253b94f956c072a1933d57
+      internalID: 4457902668154228578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_6
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 725.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f4551415c463e45871273b44e9f191
+      internalID: -3793743754744635697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_7
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 725.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f4420d88918aa4184d73e61d9314e7
+      internalID: 2637721966268014744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_8
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 725.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c64c97d50b964e4cab5c335340ed50b
+      internalID: -1506264919302156626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_9
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 725.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d584f1f350c3768438d2a735a36d8d44
+      internalID: 3378676728634446967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_10
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 725.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7997b8fc0e586724e903b9e2aed2f95b
+      internalID: 7838332623192766925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_11
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 725.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4067636a35acb6e4f93ce1988969d64e
+      internalID: 6787108362728250599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_12
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 704.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5843b0cd44fec7c45974c159d132f1bb
+      internalID: -3835750476202084153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_13
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 704.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858d11cc8e7d16643bdf0ea246818697
+      internalID: 6643611030526561128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_14
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 704.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0713404f649da842a01fffc49a4a8f1
+      internalID: -1763307249770447601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_15
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 704.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839a07b5fef0bde4c9bf8eda8817bd78
+      internalID: 2872794822592200919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_16
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 704.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494110325baa14449b02cd6345b39582
+      internalID: -1016737470214483617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_17
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 704.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c60ce8bbc2592b4f96c111f6851529a
+      internalID: 3021663132385176202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_18
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 704.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d1ae2f74e54a24e9b2d1bf35312ee7
+      internalID: 8633017666245225362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_19
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 704.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdd363a13500124cbe73536b61ee78c
+      internalID: -9082670866185787851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_20
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 704.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6add42f380dcdf3419dc41005ba645c3
+      internalID: -5923023501701344838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_21
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 704.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b19834a7fe72046b42ea82cbef42df
+      internalID: -1191825223194958056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_22
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 704.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d5a42c39e75bc42abb229f6ab9f44f
+      internalID: 6050640310280883683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_23
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 704.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae6933098dfd1549a5cfeb99f6457b3
+      internalID: -1662763327100829785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_24
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 683.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aafaa41740ef2a4f9fb1e5c8cea42ee
+      internalID: -1581930285213463362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_25
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 683.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399808400dd12314c99808729adfeee1
+      internalID: -6406227008026989078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_26
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 683.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18355f830fdb27a46a1ab2d856652cf4
+      internalID: -2173925310269019481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_27
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 683.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e140781fcc576af4a9a340ebaeb7ec87
+      internalID: 7619670575628015892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_28
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 683.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1576bbf81e23e1499ea9acf18b4e7d0
+      internalID: -5895138491784979342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_29
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 683.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2e8e79125266146b6de27290ea0950
+      internalID: -2407703576493201499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_30
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 683.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886e5d0f59c5c5f4a8f193281451f2b1
+      internalID: 179528704634479777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_31
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 683.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e46bf3296d54b34783cda8cba89af0e
+      internalID: 6279054389417804382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_32
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 683.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e93cceef6d2454b92f908ee6dff9be
+      internalID: -1593742995867014097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_33
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 683.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f3628ed5bbb864f883c443650474e5
+      internalID: 3616951560117754480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_34
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 683.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4a0b196792bc84d80382a290ba722a
+      internalID: 2859048192976504055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_35
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 683.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4c5337a483fee4fb8d7a79ae3cbf3d
+      internalID: 6120522453756513179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_36
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 662.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727d9323c37a366458a4b8519d5b2631
+      internalID: 6233043997280603137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_37
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 662.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91658c0adbf9bd1498a4819585709d9d
+      internalID: 6119731085792050840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_38
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 662.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c577f82fa9df642b9a31b86ecc1c62
+      internalID: -6836713382292585751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_39
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 662.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257dd54868da7314cb7f85ac8a5cb288
+      internalID: -3500544511338803179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_40
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 662.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4420c8d589db3a943a726ad4c656f76b
+      internalID: 3177461853340881179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_41
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 662.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85478e622d187bf4d9c0fea0b5c677d1
+      internalID: 4552993104176503904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_42
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 662.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95991a2caf7252143bcbe3aaec6ac95e
+      internalID: -1656331581541772380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_43
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 662.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8083566cf113a6d4f810ce9965cd2eed
+      internalID: -8639776998644211497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_44
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 662.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cffa0d09e384840b2214a835efd9cc
+      internalID: 8250462176715656356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_45
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 662.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2016e90a060e9479d01242c56eee86
+      internalID: -4774492982930665705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_46
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 662.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f460db143b012c844ad0d3adf35606e6
+      internalID: 2473337584206718071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_47
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 662.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c240ef155a6b80c44823843448c6475a
+      internalID: 6354919061470809346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_48
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 662.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304822af9d8d63747a97447745e7041f
+      internalID: -4781984375970221764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_49
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 662.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbd3c3bb5fd72b44bf090229cf99f76
+      internalID: 3006448061833506747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_50
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 599.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0ab12ec9746e042ad9dd278ea74601
+      internalID: -7777443472670826758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_51
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 599.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5bdecc6918ffa49bf687dd9c4ddbcf
+      internalID: 6320748635325067415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_52
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 599.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348a220b9c490a944b6b20b46748d7ac
+      internalID: -3547832794494149925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_53
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 599.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae58d4207f37df44abee6c8196eb147a
+      internalID: -5122379633278674622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_54
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 599.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013eaa7335fe3d84bb0f2cc3b28a7a2b
+      internalID: -1163538061944665378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_55
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 599.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d1007aecc521d47a9fbc9c7b7bd5fd
+      internalID: 2217652351584467438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_56
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 599.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1dd563bec3a2a4b9a1806c79a8a84f
+      internalID: 1940221846978152151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_57
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 599.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4bc2648beca12241b97244009f0abfa
+      internalID: 1930190849089095915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_58
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 599.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753e6b0aa349f074ab7a403dbd6e1cc9
+      internalID: -354846884827862054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_59
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 599.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0d5050796ab7146b9cb2e7257980f7
+      internalID: 2463204991896456422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_60
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 599.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8205edf5fde8cce4196cf9c80619e473
+      internalID: -3611834601939494534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_61
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 599.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf2216ad6b54594a81e76a29d0fda6c
+      internalID: 8410933936437165774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_62
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 578.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6d0f76792005a4181de3f684f4aac7
+      internalID: -4049428961147159179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_63
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 578.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee69593a0beac54c9b7f1d80070bf19
+      internalID: -4223263913417368334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_64
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 578.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20eafb72a4a85a94da41190c0bad6d88
+      internalID: 8972589543228295939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_65
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 578.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d2a775ffa0d1947a9bc3e83117ab1b
+      internalID: -8388531346125905150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_66
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 578.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77490a6679a31246b1a2bb013b0d13a
+      internalID: 8152720291942821019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_67
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 578.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48b995f8c28ebc4eb7b9b600e6d68d9
+      internalID: -4778994414225485462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_68
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 578.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f23f0402d8fd0c4c901c60bcd5f71cd
+      internalID: -7422491816663082547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_69
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 578.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcb4d14372bb7a4db4001727bd32ba6
+      internalID: -6580309866289304836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_70
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 578.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba6d9006c75771428e9e9975162bdf7
+      internalID: -4818511419297946547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_71
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 578.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e07fc7c26bdfa4599f288c84718091
+      internalID: -2938822210584767482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_72
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 578.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8fb9026dcd65e43825bc4255493b26
+      internalID: 8112461516401770404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_73
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 578.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40a5892d3af4a14ea3cab358f0ecf76
+      internalID: -3675264884164713292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_74
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 557.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce83224390443724baf03fbb81985813
+      internalID: 7365209528937002399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_75
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 557.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2ccee01f2dd864aaced6052e99c34e
+      internalID: 5112046852590415031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_76
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 557.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b336ef0bc3b36f9459dd44a7004c5f4c
+      internalID: 3523976913845078706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_77
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 557.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ca8849975d1dd4ab8269e267df6baa
+      internalID: -2169377931524539081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_78
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 557.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821083c3e44f3a1418aac6057cb21a9d
+      internalID: 5056877948930771683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_79
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 557.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d5b22730c09bc4ea4eeb43df33ec48
+      internalID: 8562818862157660253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_80
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 557.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb4f8938f22e3d46a50bd82be345277
+      internalID: 1231688434675123192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_81
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 557.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d1b0c5da735d24895aed4d528d57d5
+      internalID: 7204610038472120917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_82
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 557.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c529795222b9447a562b9f7e567994
+      internalID: -1671924201812530529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_83
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 557.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5f0d29a15b67449bf3f56757fcf64d
+      internalID: -5494451254631825109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_84
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 557.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3440025bca45991478a1bf85711d993e
+      internalID: -4007239641765745456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_85
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 557.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10637e994b641284f9da87f69fa9fefc
+      internalID: -6516218001946166030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_86
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 536.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadd62ed73da7ba4494b2707accf0ee7
+      internalID: 8481676940156281587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_87
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 536.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134a1d7624168684cb85f33b77c97ac8
+      internalID: -4735846033838192725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_88
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 536.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ce3389c419cc94d83b8617d2d5c734
+      internalID: -1033282692694883093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_89
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 536.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e48768a0d021034491a5389431e00a8
+      internalID: -368543192166970667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_90
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 536.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc96a05b967247428252b2d291fdd89
+      internalID: -4470807035861736958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_91
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 536.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c6fcc29737a0b4f95ac1cffcdb7f49
+      internalID: 2602575252019368178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_92
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 536.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a105470ae10444a4384831c19656f58d
+      internalID: 389424524130914052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_93
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 536.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5950f83afe6ce40429a034bef2348911
+      internalID: -7341731767922512430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_94
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 536.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631cc47318e84e94c8021d3334f185a9
+      internalID: 2650071304100979950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_95
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 536.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f5e73709610f84da84306e403c5e47
+      internalID: -4935112367923104756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_96
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 536.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc9ca27648f6f142bcc1e9b3f5817b5
+      internalID: 2776749150198245938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_97
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 536.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e432f866f0c224899f5fda65a4429c
+      internalID: -2877728350150323275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_98
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 536.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de80e45fe763e849ab9d50e2c5d3a35
+      internalID: -5891122998894189546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_99
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 536.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904b10fa7371ef1499bcc2628008d832
+      internalID: 1747450330332581372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_100
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 515.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5706fc3bf05579241982c87f1e6cdfed
+      internalID: 2733886531871058660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_101
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 515.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa88746c51c6f6c4f8c4ca67d906e92c
+      internalID: 6742767502532484239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_102
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 515.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b1e742182abf94e89b20254abb71b0
+      internalID: -367807719934035470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_103
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 515.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6e24f3298d39d4fa2c574cafbae6f7
+      internalID: 2651461994977694572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_104
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 515.0571
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75f2fedb63f7f942b12c24f716d476e
+      internalID: 452337541430388161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_105
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 473.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53348265aec2746408fe2120ba31fe72
+      internalID: -5325193963819179679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_106
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 473.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3955ec7cd08e8f3469e50acaff2738c7
+      internalID: 8020317572522027509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_107
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 473.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13b0839183146545b08441cad36cad3
+      internalID: 6382539394956917944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_108
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 473.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f840929484d8541a8478699998c6bc
+      internalID: 4409417827083727556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_109
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 473.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3528d64ec0e738045affc4006d13c6c3
+      internalID: 8062203489434692629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_110
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 473.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cad02dec6c9144c9c343fd17b0d25a
+      internalID: 536320321926328303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_111
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 473.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e1c70050ba4584283de5c2fa852fc7
+      internalID: 4975048966528655362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_112
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 473.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbfacdde1af60440bd4364d5536869a
+      internalID: 1553942253312002414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_113
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 473.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f655e457cb0ad48b1eaa855dd48760
+      internalID: 4568676279852897135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_114
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 473.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462a9c933728770428078ecdf06f9506
+      internalID: -365921766718124303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_115
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 473.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73851f4e91d2c74479d1cd7496f3c21e
+      internalID: 4022921237232031861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_116
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 473.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f964b3bc137a784ea8e56d73dcaa31c
+      internalID: -4535263662904573661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_117
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 452.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2dc3c03710185468e124408ac124fa
+      internalID: 2483438599948797287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_118
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 452.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d855902f3bed749b96ae1cdde6d203
+      internalID: -7779295719109361268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_119
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 452.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249bf508961f55a479d0395f1c2281ca
+      internalID: 1844954640516631603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_120
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 452.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6eae73d27539f1449d967ec45daa491
+      internalID: 3074783258662556806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_121
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 452.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837f7bd7a0823fa42b1f5aaa46f7c0b0
+      internalID: 3088142822672189053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_122
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 452.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a737b5763f0ceb94bbd6024251c1aed5
+      internalID: 8892408985325332361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_123
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 452.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bb82fbb21314a4baf4ac2fc9572e49
+      internalID: 7495738648869524446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_124
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 452.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac94a6e834d58064496613bddf463d10
+      internalID: -19086200912863204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_125
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 452.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be04915942802d64f9b0fc6beef9fcf7
+      internalID: -9161720479482493284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_126
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 452.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03733637a3db36d43861158f53ae1181
+      internalID: 2821038474204573777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_127
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 452.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c72ca1ff5b0f2418884ffe597ed964
+      internalID: -1876767047022184602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_128
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 452.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8af986fcc0b74c408c0223b6c4db8f5
+      internalID: -51612920441544897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_129
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 431.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b52add55d074648850d6bca5953f14
+      internalID: -3186288172590180313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_130
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 431.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc7ca443632cb24bacb6e0d7d463b75
+      internalID: -9016102599679385327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_131
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 431.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088950b3c9a61ea48874fe25209e6a95
+      internalID: -3737268537513422517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_132
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 431.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68dbc45be609eb644880d25884214f4e
+      internalID: -5457325514347233772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_133
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 431.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96bd77e891623744b010b52a79e23c4
+      internalID: 6488460270144714271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_134
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 431.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defb5fec00e15814daf9aa2e0a7f7627
+      internalID: -5298737845211885420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_135
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 431.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4deb11fbdc6fcd4f9968512e222fe52
+      internalID: -1779134921238157232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_136
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 431.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4270eeb84ca0c94bb6dacd1df1feb28
+      internalID: 2625401544468018821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_137
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 431.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427123754d277fd4eab2e64234e22608
+      internalID: 2435712779466521937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_138
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 431.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a9bb4624d9cbd4da5c1e35311ec6b4
+      internalID: 758868716193822586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_139
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 431.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b242d24a9bed394eb444e0eed83dda3
+      internalID: 6279307670280118985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_140
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 431.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e2b55ebdaa6254e8db69321d72dd74
+      internalID: 5884589224831946963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_141
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 410.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9fd1a45c4c0d64f8319ecbb45ce7f4
+      internalID: -505187793904336801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_142
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 410.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaac4a27304a157489f1de35612a99a9
+      internalID: 8550343779288553592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_143
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 410.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6473ab5444b71e04a858c1c9f71ef0c9
+      internalID: -4854785804086713644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_144
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 410.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9e162ffc942404e90830a20aa47cdf
+      internalID: -8472744600828301322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_145
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 410.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf8a5e2bbc982f4ab2587e4090d11e4
+      internalID: -5511000390552138024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_146
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 410.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8dafb4812518c43861ecc351910b38
+      internalID: -7580083160203465571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_147
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 410.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98cc9e917305154b8a1a4cd3dd5bf74
+      internalID: -5789000182812852871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_148
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 410.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01918386b46731f4d85cc416287375f4
+      internalID: -3467150805057944395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_149
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 410.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1b91cb1e09f364da3d19dae421585f
+      internalID: -3501977098279354595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_150
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 410.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf6de34d48591d42beae0c2e50312d8
+      internalID: -1383147850161922377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_151
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 410.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58674caa10c712c408bcff350ce3334c
+      internalID: -4572982390729244861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_152
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 410.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a86f30e39086f249b79f6f0fbbf4737
+      internalID: -9153481869618795027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_153
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 410.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9081c9f05d1d9854cb0bb6668058946e
+      internalID: 7225690058300087291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_154
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 410.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f5854e52b055f4f9413f984dbeddf0
+      internalID: -2516242462316105818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_155
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 389.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af60b32ae0f4d141bacc71ee6a339c6
+      internalID: -8505551736752155566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_156
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 389.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d574aed262e4fbc4bb8ac8101a3c99e5
+      internalID: 8531436712046974262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_157
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 389.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0595a435b5c13484c80cfce9b99cf70a
+      internalID: 3120499186330396632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_158
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 389.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633f670bd5ab43147bdafbdb7a5172ae
+      internalID: 1672461461053808048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_159
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 389.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ca2d60b6c433e4cbc37a5ba067e04d
+      internalID: 391045217547016808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_160
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 389.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab59d1600650c04eac04de9bb3fdbd6
+      internalID: -7112771756061990821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_161
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 347.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18f06bc6329c664fb9a22cc1572b25e
+      internalID: -8467802798622210700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_162
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 347.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b783856dad15ce248aae6b2ade01a2e1
+      internalID: -1638357491440919943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_163
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 347.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089cc086caf1159448e61f8b324d2fcc
+      internalID: -7235683099142527889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_164
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 347.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103238c490f0a59478db86d7eaeeb73d
+      internalID: -7255819352622396967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_165
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 347.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2342f51f9e815fe49ac110bad768f6d7
+      internalID: 49009687521831223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_166
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 347.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aeb40593841230409d6648203767c2b
+      internalID: 7813416668226682993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_167
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 347.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8761f03b950d40419fcf51a735d08e3
+      internalID: 2669003814291192631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_168
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 347.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926b6973992d9bf4bae78d151ffb60b5
+      internalID: 2928314318241261862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_169
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 347.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb73f7ee90d37ec48998af6c9a65d01b
+      internalID: 3109596262379304679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_170
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 347.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2045e3ecbe6126f408396aceb56f9126
+      internalID: 3034773197200774897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_171
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 347.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775ddeb6fc482c140a9fcb8bfec7f5aa
+      internalID: 7635308490016252430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_172
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 347.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d54dcef9b9fd8043b67f35f0fdfcd98
+      internalID: -8660592178841659344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_173
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 326.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d075f581a2314344c94028e2665b2810
+      internalID: -8454209617441424588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_174
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 326.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9960ecee4c5b6f94597b0e64053e8a4e
+      internalID: 460082111497424382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_175
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 326.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7d5e99a9da96044a8e64811305f812
+      internalID: 6051704892420937736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_176
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 326.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cdf86fd917f7204fa89df0fefebae45
+      internalID: 5178736817519054885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_177
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 326.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8143897b6efe4649b37772e9f14e6c8
+      internalID: 5478726686710518784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_178
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 326.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3820d2bc4e3767149a78f2b9f9c01d2b
+      internalID: 1773901229049463465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_179
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 326.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b69097b1dbea1499a7d4b387281b49
+      internalID: 2347293666412321515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_180
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 326.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc44c9e1e23c8f40ac90f219b607d57
+      internalID: -382038178459049608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_181
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 326.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feeb65705b6f7154c994fc4118108ed6
+      internalID: 6373793579979793969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_182
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 326.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb707f6dc44d0c47984b45c1578eac8
+      internalID: -8349198523046803761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_183
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 326.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad9460410b65324da2326d314a3756f
+      internalID: -1832219975784972501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_184
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 326.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcda45ec8f0f954b8c91af19b94b02c
+      internalID: -6786404719175952414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_185
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 305.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e45796dcd0f4c7478451d7ac0ef9232
+      internalID: -4497812950621337356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_186
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 305.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc4d095aab7e0944a7a143aee48d628
+      internalID: 5840733847054515286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_187
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 305.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d95767cbe61d2549a98d10a619cb2c3
+      internalID: 1414439393902396588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_188
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 305.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ad125a6a1d890489765d00650ecad8
+      internalID: 7375994862869270688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_189
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 305.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252b566ff0c2f7340b5249af523843fa
+      internalID: -1160980259318590847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_190
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 305.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84440c99ef58e342a47715a6750efba
+      internalID: 6571045077250814684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_191
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 305.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02afa9b6c38440d47af4213a8ab11065
+      internalID: 7862723461335379932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_192
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 305.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6900a46e5a024044e853e878ed2f0768
+      internalID: 4345133419452632546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_193
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 305.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18048cbe85a39954b9ba203a0aad77b8
+      internalID: 857999035810038005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_194
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 305.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bca4e99f9d84545a5835a78f595847
+      internalID: 8876776809891028043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_195
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 305.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24248349ec07c1843b4b7eaed11071ce
+      internalID: 1658174731850751102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_196
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 305.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4412827f3b9a141aeece22f039f4d9
+      internalID: -1528300184148559660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_197
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 284.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b1e73baf375f44d8f853872f607641
+      internalID: 200668216669307529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_198
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 284.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56c71f80a59cd74ab276e79b394beab
+      internalID: 9010183297384405304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_199
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 284.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028268934aa44a9489a1942f2681b5d7
+      internalID: -7784588332388169989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_200
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 284.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412bbad27d9c5724b8bce01097450924
+      internalID: -806941273547732865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_201
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 284.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec09248bccdf3284b96856335a89246f
+      internalID: -5527710264824522376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_202
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 284.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7f17842e2cbef47a2782c1ed3cefe7
+      internalID: -747681676874005010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_203
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 284.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29421702b0a8b94e99c0002f824333c
+      internalID: 2056599332549412637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_204
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 284.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f9193985278f54cb94b413cb1789b2
+      internalID: -2148028398902083363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_205
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 284.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6602a2972098f24389e3eca5dfb4e98
+      internalID: -7326818267588374701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_206
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 284.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feffc50b18e814c4eb04077077b6d661
+      internalID: -9217197437541984166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_207
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 284.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154a1eb428b4a3241a618f8a0eb3104e
+      internalID: 3728458717186142546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_208
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 284.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b13573f97d29e4f83312c48a910016
+      internalID: 120944276732911842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_209
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 263.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b6016a0b895d9499fd1737c8a3854e
+      internalID: -4325938983513256773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_210
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 263.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a68a366d45ab0a40983282542d151f5
+      internalID: -7134899921178832013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_211
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 263.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98328ff4c362bc64fa16a2272de61285
+      internalID: -3779746153238226400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_212
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 263.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a48efc56f0290e419ab1dfc2d7db8b3
+      internalID: -980549266907908834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_213
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 263.05713
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0e2da7c34c75d4fbffb47e371da043
+      internalID: 4709576091261108272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_214
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 221.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af56d85fa60676e4c89c73874db3fef6
+      internalID: -9058659057514945028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_215
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 221.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7a65d398431214c9a7051dc242932e
+      internalID: 3095512447794801823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_216
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 221.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9922f294cce72f044bd5d22123d3f02b
+      internalID: -6573643860392073521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_217
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 221.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea308a93026dd449bc6128494fa971a
+      internalID: -800856310404809200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_218
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 221.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3829bb57d220e6743b65a7516c7f3c5b
+      internalID: 3362676332823949793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_219
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 221.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24026ffb8380fb4eabdf21f3b113477
+      internalID: 291609991047182654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_220
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 221.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d924fa8ee7c7264d86895147e4c19b9
+      internalID: -1240369843987618795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_221
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 221.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f07582c28af1c4db42f851add65942
+      internalID: 7252682503232072482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_222
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 221.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf2178bebfe1844dbef470e26e729f5
+      internalID: -752046699285248779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_223
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 221.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d0e0eee03a7224885417f083c61835
+      internalID: -6029640299031051368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_224
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 221.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047d2286584cf254f8c9b41a8937a19c
+      internalID: 2285735530588555539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_225
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 221.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6b4fe9ef40ad94ea4af6446e0ece84
+      internalID: 8789757862740558344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_226
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 200.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a5fa63302d22a42ad23d784134ebeb
+      internalID: 8688279557489386218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_227
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 200.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be59f6b7cc5efd4ea77e254543f44f2
+      internalID: -2412966006665259130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_228
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 200.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6da9e0ba11db84a8ae4a6f68b9125a
+      internalID: 9104010005015920655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_229
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 200.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ba379d3cadb6047b40ab40ae171c43
+      internalID: 7201017107529716298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_230
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 200.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56af0b8302d61d419a41a11dab42ac1
+      internalID: -8763580475493983762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_231
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 200.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c595e773ebace4a976abea40611189
+      internalID: -1045205169959400893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_232
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 200.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f637f1d70f54c5b4daa40ce01975d61a
+      internalID: -4206855625236771337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_233
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 200.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69888443c137d9478095b225c875902
+      internalID: -852651142214649229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_234
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 200.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d73bda5d1e5b4e45b11f5f008349087
+      internalID: 849073492544865418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_235
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 200.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc1343e5149e4246a00ba3db2ce74c2
+      internalID: -5574500806114356069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_236
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 200.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3519c5556946542a44faae8ff15975
+      internalID: 1387323559764930413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_237
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 200.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7486b0cbf2501c649a414d4620aabb54
+      internalID: -6191387182796282138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_238
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 179.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6574d0337577c4c8e3804f702bf293
+      internalID: 6610589076189400959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_239
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 179.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4936e60471395f94ab4618a5a181d65d
+      internalID: -3982803642041143805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_240
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 179.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf337087dcfb2f642a9a7b823b6d2f5a
+      internalID: 9179780849366350595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_241
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 179.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c721016afb209bf4fa45a6d44424ddd2
+      internalID: -8976591359126395539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_242
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 179.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af252c87689bff408e86ab8ad3f7de8
+      internalID: -6238172586328670359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_243
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 179.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18029de111da4ab4f91a6ecc431dcf9b
+      internalID: -2243970633411674637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_244
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 179.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89113ed780ccc149a7167ee25c42a5a
+      internalID: 4879764772994767708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_245
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 179.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbe4ca79fdd24b4d95f8314478c16ff
+      internalID: 4085897225448614868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_246
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 179.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a6fb6cb94f51248bd3f9ce744ab266
+      internalID: -4595175032217487619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_247
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 179.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b2e9390f5de7646b25592539b6611e
+      internalID: 1097147297440403480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_248
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 179.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8ce325c29c9854e897151e7d232674
+      internalID: 631034629871738278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_249
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 179.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fa105145bd75740aafb1a0de6257a3
+      internalID: -3204146203282947900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_250
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 158.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a99ca25bbf60f458a9e8024e860c65
+      internalID: -5110979502323368380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_251
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 158.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd54199c159defd44bdd9b4d71e72c72
+      internalID: -6306649574230943374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_252
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 158.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9745619b03eca448a2919dcc4e5bcc0
+      internalID: 471245795647591411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_253
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 158.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61629475eecbda4b841f6941ff259c2
+      internalID: 4690302085598113559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_254
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 158.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38ac59cec839894292d32d5403e206f
+      internalID: -6988260137856581974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_255
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 158.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4c4960802c4a84799b7e9f3484e210
+      internalID: 6638754497656264126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_256
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 158.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b65c190975ef044986eab5f021a4e9
+      internalID: -1479776390143228719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_257
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 158.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b54d13ee7b819428fa9b4a9f20015e
+      internalID: -118998019986630684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_258
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 158.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d810e8823f1c944b54cc5d9af178de
+      internalID: -1333377897223008032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_259
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 158.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddde71f8cc903214d940f90098d56092
+      internalID: 8117723348350223380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_260
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 158.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032a3785d44e61842a28bf02d520000a
+      internalID: 5789192223055530705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_261
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 158.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5984c0e2cd83984439035204df79620b
+      internalID: -3300928165914627452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_262
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 158.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2f1c162c9d90c408782de080399bc0
+      internalID: -2219880939132309179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_263
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 137.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5c1b55f8047eb4aafd6d668da42010
+      internalID: -9062245896520008537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_264
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 137.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6fba615c8d51941bf9be257247a58c
+      internalID: 2854774853233049007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_265
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 137.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3f26c2e56cc8348a54541daa298e02
+      internalID: -5912564595255667150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_266
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 137.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75fa4d55cf46f8d459aa1bf610f55267
+      internalID: 7709269324907706770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_267
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 137.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be37ffbd2e65f34baa844d20b81af71
+      internalID: -1448486823225192515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_268
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 137.05714
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89742c16d36e6f4fb9f75ed7dc2eacf
+      internalID: -4079803379397940294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_269
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 95.057144
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f845178d7cb21db43b5f10f068acecdf
+      internalID: 4171875550136187209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_270
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 95.057144
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be18d51a881e4f145b22c298972b58a0
+      internalID: 2668711689350202110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_271
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 95.057144
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88d83ef1aa0bae41a1d0f51e9ce735e
+      internalID: -1833982218843718466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_272
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 95.057144
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ed0738e034d51468000443674c2e36
+      internalID: 5066386837420365815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_273
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 95.057144
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3d3b58837c43f469ac8963401bcf32
+      internalID: -7247238572367988423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_274
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 95.057144
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bff78a5fca7a14d8113dc18ba85994
+      internalID: 4319360337651222527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_275
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 95.057144
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55190c858ba8b445b87d3e6932f98bf
+      internalID: -4398711612597595372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_276
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 95.057144
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3897f358e9697ef4688e1f2b23494878
+      internalID: -8746177514993531780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_277
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 95.057144
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a1f3107cf3c2c41874f6e4b1d2c6ca
+      internalID: 8660664160879195209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_278
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 95.057144
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f1134689dcbb0429704cf4425ee20f
+      internalID: -4677889762835602122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_279
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 74.057144
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10a8f5bb0005f04cbe01ff91cd0a492
+      internalID: 769859436734441956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_280
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 74.057144
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dce82e098edcaf468f8e04e62e6d171
+      internalID: -2149825920373613704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_281
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 74.057144
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41577b68095b7d74eaa0121e26ea2a9b
+      internalID: 3845970638131348463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_282
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 74.057144
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7dbc361f813b345bf3812ee561ad71
+      internalID: 8479793735529150831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_283
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 74.057144
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913f9c40e47a4644e9ea5916140a4d1d
+      internalID: 2395630037038112603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_284
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 74.057144
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e928e2191cd5aa438e4acce8b00915f
+      internalID: 1501502879350884816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_285
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 74.057144
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cde2b08212e3743a4f2bce4e85884f
+      internalID: 5448248584911664172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_286
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 74.057144
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ff9921b126cc741b0765d9335ca713
+      internalID: 2039765386317747973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_287
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 74.057144
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895486574f9d6154d9e6d41a9ef37bcd
+      internalID: -6028708048047520371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_288
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 74.057144
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770f876c88ee9d24bae5629467471d65
+      internalID: 6792335217280135260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_289
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 53.057144
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562e1729b1d25a44c844a6df78d31614
+      internalID: 816810828656096198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_290
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 53.057144
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a52eb5b17ee1645b642b9545977a7c
+      internalID: -8266709102505632891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_291
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 53.057144
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218e1837237a88a47879ae4363aa17ff
+      internalID: -8089010090396684328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_292
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 53.057144
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da8892bc476c244f80a84d3d5e8d71e
+      internalID: 3123603931990493779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_293
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 53.057144
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a449a83658be584cbd28126e3dd9af5
+      internalID: -4612327658805148384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_294
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 53.057144
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a75d20a6d850645bc20b3860946076
+      internalID: -7118986730196443967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_295
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 53.057144
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21827c4c965947b458041c97346425b1
+      internalID: 2318599798000611776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_296
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 53.057144
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb0a63b6f6abc14a91a833c5b1dbddf
+      internalID: -9007130228521296051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_297
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 53.057144
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e74675223d50c8448d12935fd19c687
+      internalID: 3836409724149978023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_298
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 53.057144
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398e7a445bbad3747a75801f6b00f358
+      internalID: 1638036303678879524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_299
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 32.057144
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea675778e67f45d48a86094b9f0e2d0d
+      internalID: -5330449534523584262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_300
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 32.057144
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479a85801ce9ad44fa4ca0ab24496371
+      internalID: -3417597513862960424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_301
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 32.057144
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23aa7e50c375c0c41aface478c3c6f92
+      internalID: 6409824722032807568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_302
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 32.057144
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d4fdd065398fe4a9bd7060d56a8965
+      internalID: -2939395342770668912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_303
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 32.057144
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0088be319c5fc4e92839d5eb6ff7f2
+      internalID: 5619291632582253001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_304
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 32.057144
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db54a91ed0fd64249bb1f60b2c5b77f1
+      internalID: 1906993261830669118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_305
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 32.057144
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346c90c8ee27722438f730dccc917843
+      internalID: -4632386680944537773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_306
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 32.057144
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa80558b63b42bb4eaf9cf57b08f3b35
+      internalID: 3129860834893698093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_307
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 32.057144
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399ea9c9f54a37745a45f5bf2b7f1dae
+      internalID: 2669592482682288875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_308
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 32.057144
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393495e243702b34a94a2cdf6c07a2c5
+      internalID: 3974259817221092655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_309
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 11.057142
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902f571721806944c9a33eac66574f19
+      internalID: 8530012073686522339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_310
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 11.057142
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860507f2e9bfc4c4b86bb243da49852e
+      internalID: 906207898763800893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_311
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 11.057142
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfef710f1a9b96468a069c49cdb14e3
+      internalID: 4253574692347168914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_312
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 11.057142
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f66fb9dbdf65a449a8acbcc65133cf
+      internalID: 4547384470285859497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_313
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 11.057142
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e22de02bd9761a41b2ea926d0a1da3b
+      internalID: -1299887505064679235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_314
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 11.057142
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82dfe0e34de8fd748a44d8cca8c8e15b
+      internalID: 6344007289071823537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_315
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 11.057142
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0baafac5481da8f4584fdbdefd17d004
+      internalID: -6227671458031456775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HazmatYellow_316
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 11.057142
+        width: 21.942858
+        height: 21.942858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ee4c72ae833444c8849a27bec17b8b
+      internalID: 5392330035913326452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

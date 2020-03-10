@@ -11,13 +11,18 @@ public class BasicMovment : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        animator.SetFloat("Horizontal", Input.GetAxis("Horizontal"));
+       
     }
 
     // Update is called once per frame
     void Update()
     {
-        Vector3 horizontal = new Vector3(Input.GetAxis("Horizontal"), 0.0f, 0.0f);
-        transform.position = transform.position + horizontal * Time.deltaTime;
+        Vector3 movment = new Vector3(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"), 0.0f);
+
+        animator.SetFloat("Horizontal", movment.x);
+        animator.SetFloat("Vertical", movment.y);
+        animator.SetFloat("Magnitude", movment.magnitude);
+
+        transform.position = transform.position + movment * Time.deltaTime;
     }
 }
