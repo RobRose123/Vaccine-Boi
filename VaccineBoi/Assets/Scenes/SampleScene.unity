@@ -172,6 +172,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   animator: {fileID: 430903585}
   crossHair: {fileID: 1938345291}
+  bulletPrefab: {fileID: 6540319327984819229, guid: 20a401197f1332746b7cbfbcc34089cc,
+    type: 3}
 --- !u!212 &430903587
 SpriteRenderer:
   m_ObjectHideFlags: 0
