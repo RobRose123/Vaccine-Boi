@@ -9,6 +9,8 @@ public class PlayerController : MonoBehaviour
     public GameObject crossHair;
     public GameObject bulletPrefab;
 
+   
+
 
 
     // Start is called before the first frame update
@@ -22,7 +24,13 @@ public class PlayerController : MonoBehaviour
     {
         Vector3 movment = new Vector3(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"), 0.0f);
 
-        MoveCrossHair();
+        if (Input.GetKey(KeyCode.K))
+        {
+            GameObject arrow = Instantiate(bulletPrefab, transform.position, Quaternion.identity);
+            arrow.GetComponent<Rigidbody2D>().velocity = new Vector2(6.0f, 0.0f);
+        }
+
+        AimAndShoot();
 
         animator.SetFloat("Horizontal", movment.x);
         animator.SetFloat("Vertical", movment.y);
@@ -31,15 +39,23 @@ public class PlayerController : MonoBehaviour
         transform.position = transform.position + movment * Time.deltaTime;
     }
 
-    private void MoveCrossHair()
+    private void AimAndShoot()
     {
         Vector3 aim = new Vector3(Input.GetAxis("AimHorizontal"), Input.GetAxis("AimVertical"), 0.0f);
+        Vector2 shootingDirection = new Vector2(Input.GetAxis("AimHorizontal"), Input.GetAxis("AimVertical"));
 
         if (aim.magnitude > 0.0f)
         {
             aim.Normalize();
             aim *= 0.4f;
             crossHair.transform.localPosition = aim;
+            crossHair.SetActive(true);
+
+            if (Input.GetKey(KeyCode.K))
+            {
+                GameObject arrow = Instantiate(bulletPrefab, transform.position, Quaternion.identity);
+                arrow.GetComponent<Rigidbody2D>().velocity = shootingDirection;
+            }
         }
         else
         {
