@@ -120,6 +120,75 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1001 &502446330
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5471638427764629718, guid: 58556c093aa6d174e84165ab47e12d5e,
+        type: 3}
+      propertyPath: m_Name
+      value: test virus_0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5471638427764629707, guid: 58556c093aa6d174e84165ab47e12d5e,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -5.92667
+      objectReference: {fileID: 0}
+    - target: {fileID: 5471638427764629707, guid: 58556c093aa6d174e84165ab47e12d5e,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.5583233
+      objectReference: {fileID: 0}
+    - target: {fileID: 5471638427764629707, guid: 58556c093aa6d174e84165ab47e12d5e,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5471638427764629707, guid: 58556c093aa6d174e84165ab47e12d5e,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5471638427764629707, guid: 58556c093aa6d174e84165ab47e12d5e,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5471638427764629707, guid: 58556c093aa6d174e84165ab47e12d5e,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5471638427764629707, guid: 58556c093aa6d174e84165ab47e12d5e,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5471638427764629707, guid: 58556c093aa6d174e84165ab47e12d5e,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5471638427764629707, guid: 58556c093aa6d174e84165ab47e12d5e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5471638427764629707, guid: 58556c093aa6d174e84165ab47e12d5e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5471638427764629707, guid: 58556c093aa6d174e84165ab47e12d5e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 58556c093aa6d174e84165ab47e12d5e, type: 3}
 --- !u!1 &607946290
 GameObject:
   m_ObjectHideFlags: 0
@@ -216,9 +285,10 @@ GameObject:
   - component: {fileID: 734633129}
   - component: {fileID: 734633126}
   - component: {fileID: 734633130}
+  - component: {fileID: 734633131}
   m_Layer: 0
   m_Name: Test character
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -236,6 +306,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 5
+  health: 10
   rb: {fileID: 734633129}
   cam: {fileID: 607946292}
 --- !u!212 &734633127
@@ -300,7 +371,7 @@ Transform:
   m_Children:
   - {fileID: 817620141}
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!50 &734633129
 Rigidbody2D:
@@ -339,6 +410,32 @@ MonoBehaviour:
   bulletPrefab: {fileID: 8094855047328435937, guid: 20f726e93722a0b44a7fb106a4bcc4d0,
     type: 3}
   bulletForce: 20
+--- !u!61 &734633131
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 734633125}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.000000037252903, y: -0.046008702}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.28, y: 1.28}
+    newSize: {x: 1.28, y: 1.28}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.20775877, y: 0.14747715}
+  m_EdgeRadius: 0
 --- !u!1 &817620140
 GameObject:
   m_ObjectHideFlags: 0
