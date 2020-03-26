@@ -697,6 +697,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5471638427764629705, guid: 58556c093aa6d174e84165ab47e12d5e,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: -4428348194372706877, guid: 58556c093aa6d174e84165ab47e12d5e,
         type: 3}
       propertyPath: speed
@@ -1778,3 +1783,30 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 100
   m_TargetDisplay: 0
+--- !u!1 &2075463229 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5471638427764629718, guid: 58556c093aa6d174e84165ab47e12d5e,
+    type: 3}
+  m_PrefabInstance: {fileID: 502446330}
+  m_PrefabAsset: {fileID: 0}
+--- !u!50 &2075463234
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2075463229}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
