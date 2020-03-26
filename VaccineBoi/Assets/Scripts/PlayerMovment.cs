@@ -38,6 +38,7 @@ public class PlayerMovment : MonoBehaviour
         if(target.tag == "Enemy")
         {
             health--;
+            Destroy(GameObject.Find("HealthBlock").transform.GetChild(0).gameObject);
         }
     }
 
