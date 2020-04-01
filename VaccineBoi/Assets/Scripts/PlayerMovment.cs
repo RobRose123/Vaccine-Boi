@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerMovment : MonoBehaviour
 {
@@ -39,6 +40,11 @@ public class PlayerMovment : MonoBehaviour
         {
             health--;
             Destroy(GameObject.Find("HealthBlock").transform.GetChild(0).gameObject);
+        }
+        
+        if(health == 0)
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         }
     }
 
